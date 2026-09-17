@@ -1,3 +1,4 @@
+
 # FACTORIAL-OF-A-NUMBER
 # FACTORIAL OF A NUMBER USING 8051 (Keil)
 
@@ -55,8 +56,9 @@ END
 OUTPUT
 
 (Keil output screenshot can be inserted here)
-
 ---
+<img width="1532" height="860" alt="638103123-3b8bf876-9700-468d-b814-b3dd10a44ba8" src="https://github.com/user-attachments/assets/624643c6-b0e4-44d4-8c2e-686be9e2b764" />
+
 MANUAL CALCULATIONS
 
 ---
